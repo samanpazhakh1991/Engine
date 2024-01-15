@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "server=.;database=StockMarketDB;MultipleActiveResultSets=true;trusted_connection=true;encrypt=yes;trustservercertificate=yes;"
+    //"DefaultConnection": "server=.\\sqlexpress;database=StockMarketDB;MultipleActiveResultSets=true;trusted_connection=true;encrypt=yes;trustservercertificate=yes;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  }
+}

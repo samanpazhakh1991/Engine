@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    //"DefaultConnection": "server=.;database=StockMarketTestDB;MultipleActiveResultSets=true;trusted_connection=true;encrypt=yes;trustservercertificate=yes;"
+    "DefaultConnection": "server=.\\sqlexpress;database=StockMarketTestDB;MultipleActiveResultSets=true;trusted_connection=true;encrypt=yes;trustservercertificate=yes;"
+  }
+}
